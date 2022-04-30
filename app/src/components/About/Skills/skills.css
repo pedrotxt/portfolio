@@ -1,0 +1,65 @@
+
+
+.container_skills {
+  display: flex;
+    max-width: 100%;
+    margin: 0 auto;
+    max-width: 1400px;
+    
+    justify-content: space-between;
+}
+
+.moldura_skills{
+  background-color: #000000;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  margin-top: 10px;
+  
+  border: 1.7px solid rgba(9, 19, 105, 0.966)!important;
+    border-radius: 5px!important;
+    box-shadow: 0px 5px 4px 3px rgba(113, 121, 189, 0.527)!important;
+  
+    
+ 
+    opacity: .93!important;
+    
+    padding: 10px!important;
+    text-align: center!important;
+    transition: all .4s ease 0s!important;
+  
+    
+  flex-direction: column;
+  position: relative;
+
+  
+}
+
+.container_skills .moldura_skills img{
+  width: 90px;
+  height: 90px;
+  border-radius: 10px;
+  opacity: .9;
+}
+
+
+@media (max-width: 800px){
+  .container_skills{ 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .container_certificados img{
+    height: 150px;
+  }
+}
+
+@media (max-width: 450px){
+  .container_certificados{ 
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .container_certificados img{
+    height: 100px;
+  }
+}

@@ -1,0 +1,7 @@
+.container_portfolio{
+  display: inline-block;
+  height: 70vh;
+  width: 101%;
+
+  overflow:auto;
+}

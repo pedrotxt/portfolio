@@ -1,0 +1,6 @@
+.container_resumo p{
+  display: flex;
+  justify-content: center;
+  word-wrap:unset;      
+  font-size: 20px;
+}

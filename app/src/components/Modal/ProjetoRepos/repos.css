@@ -1,0 +1,26 @@
+.container_repos{
+  display: inline-block;
+  height: 70vh;
+  width: 101%;
+
+  overflow:auto;
+}
+
+.container_repos img{
+  height: 70%;
+  width: 700px;
+}
+
+@media(max-width: 750px){
+  .container_repos img{
+    height: 70%;
+    width: 400px;
+  }
+}
+
+@media(max-width: 450px){
+  .container_repos img{
+    height: 70%;
+    width: 320px;
+  }
+}

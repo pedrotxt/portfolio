@@ -1,0 +1,13 @@
+.container_about{
+  display: flex;
+  margin-top: 10px;
+  list-style: none;
+  justify-content: center;
+}
+
+.resumo{
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+
+}

@@ -1,0 +1,52 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "title": "Sistema de Chamados",
+      "image": "https://i.imgur.com/s0JJVxe.png",
+      "codigo": "Um Sistema de Chamados para Cadastro e o Monitoramento dos chamados!",
+      "site": "https://sistema-chamados-ph.netlify.app/dashboard"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio",
+      "image": "https://i.imgur.com/DGkaIPs.png",
+      "codigo": "Um site para minha apresentação e dos meus projetos.",
+      "site": "https://i.imgur.com/OgeJWJd.png"
+    },
+    {
+      "id": 3,
+      "title": "Reserva de Viagens",
+      "image": "https://i.imgur.com/Y9bti4d.png",
+      "codigo": "Reserva de Viagens é um E-Commerce para reservas.",
+      "site": "https://reserva-viagens.netlify.app"
+    },
+    {
+      "id": 4,
+      "title": "Repositorios Favoritos",
+      "image": "https://i.imgur.com/JzJDhw5.png",
+      "codigo": "Um site web para adicionar seus Repositorios Favoritos do GitHub.",
+      "site": "https://repos-fav.netlify.app"
+    }
+  ],
+  "certificados": [
+    {
+      "id": 5,
+      "title": "Bootcamp Inter Frontend Developer",
+      "image": "https://i.imgur.com/xcuq5rY.jpg"
+     
+    },
+    {
+      "id": 6,
+      "title": "React Js do zero ao avançado na prática",
+      "image": "https://i.imgur.com/OY2KIl7.jpg"
+
+    },
+    {
+      "id": 7,
+      "title": "Next.js e React - Curso Completo - Aprenda com Projetos",
+      "image": "https://fipt.org.br/imagens/img_em_construcao.png"
+
+    }
+  ]
+}
